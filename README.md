@@ -1,4 +1,4 @@
-SimplePPMEditor
+Image Editor
 ===============
 
 A simple PPM-format image editor.
