@@ -5,6 +5,10 @@ public class Pixel {
 	private int green = 0;
 	private int blue = 0;
 	
+<<<<<<< HEAD
+=======
+	
+>>>>>>> Pass-off
 	public int getRed() {
 		return red;
 	}
